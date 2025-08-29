@@ -1,0 +1,50 @@
+
+h1 {
+    font-family: "Story Script", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: rgb(41, 156, 156);
+    background-color:rgb(7, 7, 7)   ;
+    text-align:center;
+}
+body {
+    font-family: "Story Script", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: rgb(253, 255, 255);
+    background-color:rgb(7, 7, 7)   ;
+    text-align:left;
+}
+img {
+    position: absolute;
+    top: 50px;
+    right: 100px;
+  }
+ p {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
+  }
+
+  button {
+    position: absolute;
+    bottom: 300px;
+    right: 1000px;
+  }
+
+  h2 {
+    font-family: "Story Script", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: rgb(41, 156, 156);
+    background-color:rgb(7, 7, 7)   ;
+    text-align:left;
+}
+
+.contact {
+    position: absolute;
+    bottom: 100px;
+    left: 10px;
+  }
